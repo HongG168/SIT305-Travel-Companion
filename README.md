@@ -1,8 +1,8 @@
 # SIT305 Task 2.1 - Travel Companion App
 
 ## Student Details
-- Name: Your Name
-- Student ID: Your Student ID
+- Name: Reachsambath LY
+- Student ID: s223327649
 
 ## Project Description
 This Android app is a Travel Companion App developed for SIT305 Pass Task 2.1.  
@@ -28,4 +28,5 @@ It helps international travellers convert important values.
 2. Run the app on an emulator or Android device
 
 ## Author
-Your Name
+Reachsambath LY
+
